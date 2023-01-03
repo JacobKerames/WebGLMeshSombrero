@@ -1,4 +1,4 @@
-# 3D Mesh Sombrero
+# Interactive Mesh Sombrero
 
 <img src="https://user-images.githubusercontent.com/108101472/209432069-e630aa18-f260-4c35-b2b0-0b21959c2d2b.png" style="width: 500px;">
 
